@@ -1,4 +1,4 @@
-# HawkesMarkov
+# hawkes-markov
 
 ---
 ### Introduction
