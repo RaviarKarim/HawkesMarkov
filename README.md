@@ -5,7 +5,7 @@
 
 ### Introduction
 
-This repository contains the code used for the simulation studies of the paper: **Markovian multivariate Hawkes population processes: efficient evaluation of moments**. It covers the class of multivariate Hawkes processes with exponential decay. It further allows for random marks, which in this setting entails that its intensity jumps according to a random jump size $B_{ij}$. Further, we consider the _population process_, which allows for events to depart from the system; in this setting the sojourn time is taken to be Exponentially decaying.
+This repository contains the code used for computation and simulation studies of the paper: **Markovian multivariate Hawkes population processes: efficient evaluation of moments**. It covers the class of multivariate Hawkes processes with exponential decay. It further allows for random marks, which in this setting entails that its intensity jumps according to a random jump size $B_{ij}$. Further, we consider the _population process_, which allows for events to depart from the system; in this setting the sojourn time is taken to be Exponentially decaying.
 
 ---
 
@@ -20,5 +20,5 @@ The Initialization Jupyter Notebook contains the relevant packages and introduce
 
 ### References
 
-- Our paper
+- R.S. Karim, R.J.A. Laeven & M. Mandjes (2023). _Markovian multivariate Hawkes population processes: efficient evaluation of moments_.
 - Ogata thinning algorithm paper
