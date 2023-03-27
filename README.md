@@ -12,7 +12,7 @@ This repository contains the code used for the simulation studies of the paper: 
 
 ### Code
 
-The Initialization Jupyter Notebook contains the relevant packages and introduces the parameters needed to run the code. Each Jupyter Notebook contains functions for a specific method of computing moments. All the specific methods refer to sections of the paper and were used to obtain the results in the numerics section. It is emphasized that in this code, the random jump sizes $B_{ij}$ are Exponentially distributed. This is important as it appears in the moments of $B_{ij}$, often convoluted, expressions of large matrices and constants.
+The Initialization Jupyter Notebook contains the relevant packages and introduces the parameters needed to run the code. Each Jupyter Notebook contains functions for a specific method of computing moments. All the specific methods refer to sections of the paper and were used to obtain the results in the numerics section. It is emphasized that in this code, the random jump sizes $B_{ij}$ are Exponentially distributed. This is important since the moments of $B_{ij}$ appear in the often convoluted expressions of large matrices and constants.
 
 
 
