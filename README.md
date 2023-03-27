@@ -20,5 +20,5 @@ The Initialization Jupyter Notebook contains the relevant packages and introduce
 
 ### References
 
-- R.S. Karim, R.J.A. Laeven & M. Mandjes (2023). _Markovian multivariate Hawkes population processes: efficient evaluation of moments_.
-- Ogata thinning algorithm paper
+- _Karim, R.S., Laeven, R.J.A. & Mandjes, M. (2023)._ Markovian multivariate Hawkes population processes: efficient evaluation of moments.
+- _Ogata, Y. (1981)._ On Lewis' simulation method for point processes. _IEEE Transactions on Information Theory 27, 23-31._
