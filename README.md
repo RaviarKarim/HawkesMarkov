@@ -14,7 +14,7 @@ This repository contains the code used for computation and simulation studies of
 
 The Initialization Jupyter Notebook contains the relevant packages and introduces the parameters needed to run the code. Each Jupyter Notebook contains functions for a specific method of computing moments. All the specific methods refer to sections of the paper and were used to obtain the results in the numerics section. There are three main ways to obtain transient moments:
 
-1. _Benchmark_ (BM) method: this is an _ODE method_ in the d=3 setting and it is a _block-matrix method_ in the d=2 setting.
+1. _Benchmark_ (BM) method: this is a _block-matrix method_ in the d=2 setting and it is an _ODE method_ in the d=3 setting.
 2. _Finite Difference_ (FD) of the Joint Transform.
 3. _Monte Carlo_ (MC) simulation based on Ogata's thinning algorithm.
 
