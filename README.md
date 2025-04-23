@@ -5,7 +5,9 @@
 
 ### Introduction
 
-This repository contains the code used for computation and simulation studies of the paper: **Markovian multivariate Hawkes population processes: efficient evaluation of moments**. It covers the class of multivariate Hawkes processes with exponential decay. It further allows for random marks, which in this setting entails that its intensity jumps according to a random jump size $B_{ij}$. It is emphasized that in this code, the random jump sizes $B_{ij}$ are _exponentially distributed_. This is important since (combinations of) the moments of $B_{ij}$ appear in the often convoluted expressions of large matrices and constants. Taking a different random jump size would require changing these matrices and constants. Finally, we consider the _population process_, which allows for events to depart from the system.
+This repository contains the code used for computation and simulation studies of the paper: **Markovian multivariate Hawkes population processes: efficient evaluation of moments**. It covers the class of multivariate Hawkes processes with exponential decay. It further allows for random marks, which in this setting entails that the jump intensity processes feature a random jump size $B_{ij}$. 
+
+It is emphasized that in this code, the random jump sizes $B_{ij}$ are _exponentially distributed_. This is important since (combinations of) the moments of $B_{ij}$ appear in the often convoluted expressions of large matrices and constants. Taking a different random jump size distribution would require changing these matrices and constants. Finally, we consider the _population process_, which allows for departures from the system.
 
 ---
 
@@ -24,5 +26,5 @@ We also include a method to compute stationary moments, which are obtained by so
 
 ### References
 
-- _Karim, R.S., Laeven, R.J.A. & Mandjes, M. (2023)._ Markovian multivariate Hawkes population processes: efficient evaluation of moments.
+- _Karim, R.S., Laeven, R.J.A. & Mandjes, M. (2025)._ Markovian multivariate Hawkes population processes: efficient evaluation of moments.
 - _Ogata, Y. (1981)._ On Lewis' simulation method for point processes. _IEEE Transactions on Information Theory 27, 23-31._
