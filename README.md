@@ -26,5 +26,5 @@ We also include a method to compute stationary moments, which are obtained by so
 
 ### References
 
-- _Karim, R.S., Laeven, R.J.A. & Mandjes, M. (2025)._ Markovian multivariate Hawkes population processes: efficient evaluation of moments.
+- [_Karim, R.S., Laeven, R.J.A. & Mandjes, M. (2025)._ Markovian multivariate Hawkes population processes: efficient evaluation of moments.](https://github.com/RaviarKarim/HawkesMarkov/blob/main/KLM-HawkesMarkov-100725.pdf)
 - _Ogata, Y. (1981)._ On Lewis' simulation method for point processes. _IEEE Transactions on Information Theory 27, 23-31._
